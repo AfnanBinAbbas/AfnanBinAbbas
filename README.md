@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AfnanBinAbbas
-- 👀 I’m interested in CYS
+- 👀 I’m interested in Cyber Security, Machine Learning
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me Afnan Bin Abbas @ [LinkedIn:](https://www.linkedin.com/in/afnan-bin-abbas-a50b59193/)
 

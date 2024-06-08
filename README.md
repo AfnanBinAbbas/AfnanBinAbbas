@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afnanbinabbas" alt="afnanbinabbas" /></a> </p>
 
-- 🔭 I’m currently working on **Library Management System**
+- 🔭 I’m currently working on **Scripting**
 
 - 🌱 I’m currently learning **Web/App Exploitation**
 
@@ -45,3 +45,6 @@
   <a href="https://github.com/alsiam"><img alt="Afnan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=afnanbinabbas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+
+
+![Afnan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnanbinabbas&custom_title=Afnan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)

@@ -7,7 +7,10 @@
 <h3 align="center">I'm a cyber security enthusiast from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/media/823d941d38b2784563d53dc45859fccd.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanbinabbas&label=Profile%20views&color=0e75b6&style=flat" alt="afnanbinabbas" /> </p>
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+<a href="https://komarev.com/ghpvc/?username=afnanbinabbas">
+  <img align="right" src="https://komarev.com/ghpvc/?username=afnanbinabbas&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afnanbinabbas" alt="afnanbinabbas" /></a> </p>
 

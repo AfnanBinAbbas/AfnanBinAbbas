@@ -1,12 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanbinabbas&label=Profile%20views&color=0e75b6&style=flat" alt="afnanbinabbas" /> </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <a href="https://afnanbinabbas.io">
     <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" alt="MasterHead">
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Afnan Bin Abbas</h1>
+<h1 align="center">Hi 👋, I'm Afnan Bin Abbas <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</h1>
 <h3 align="center">I'm a cyber security enthusiast from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/media/823d941d38b2784563d53dc45859fccd.gif">

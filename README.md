@@ -69,9 +69,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AfnanBinAbbas">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfnanBinAbbas&theme=radical" alt="GitHub Contribution"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AfnanBinAbbas&theme=radical&background=0D1117" alt="GitHub Streak" /></a>
 </p>
 
 <a>

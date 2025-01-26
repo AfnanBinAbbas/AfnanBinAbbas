@@ -1,5 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanbinabbas&label=Profile%20views&color=0e75b6&style=flat" alt="afnanbinabbas" /> </p>
-
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/AfnanBinAbbas/readme-typing-svg">
+<!--     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a> -->
+</p>
 <div align="center">
   <a href="https://afnanbinabbas.io">
     <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" alt="MasterHead">
@@ -34,8 +38,7 @@
 <a target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idFlREP4Jj/idsR5UInMm.png?updated=1712244345166" alt="metasploit" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idtNG2kbRU/idFFfnc7jH.jpeg?updated=1710689769294" alt="metasploit" width="40" height="40"/> </a> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AfnanBinAbbas&theme=radical&background=0D1117)](https://git.io/streak-stats)
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-woad-omega.vercel.app?user=AfnanBinAbbas&theme=radical&background=0D1117" alt="GitHub Streak" /></a></p>
 
 <p align="center">
   <a href="https://github.com/AfnanBinAbbas">

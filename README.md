@@ -34,8 +34,7 @@
 <a target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idFlREP4Jj/idsR5UInMm.png?updated=1712244345166" alt="metasploit" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idtNG2kbRU/idFFfnc7jH.jpeg?updated=1710689769294" alt="metasploit" width="40" height="40"/> </a> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <a href="https://github.com/AfnanBinAbbas">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanbinabbas&theme=radical&border=7F3FBF&background=0D1117" alt="Afnan's GitHub streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AfnanBinAbbas&theme=radical&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
 

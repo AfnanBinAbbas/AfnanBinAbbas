@@ -64,32 +64,27 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## GitHub Break
+<p align="center">
+  <a href="https://github.com/AfnanBinAbbas">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanbinabbas&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
+  </a>
+</p>
 
-### GitHub Contribution
+<p align="center">
+  <a href="https://github.com/AfnanBinAbbas">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afnanbinabbas&theme=radical" alt="GitHub Contribution"/>
+  </a>
+</p>
 
-#### Afnan Bin Abbas' GitHub Stats
-- **Total Stars Earned:** 17  
-- **Total Commits (2025):** 314  
-- **Total PRs:** 7  
-- **Total Issues:** 0  
-- **Contributed to (last year):** 1  
+<a>
+  <a href="https://github.com/AfnanBinAbbas">
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=afnanbinabbas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/AfnanBinAbbas">
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=afnanbinabbas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+</a>
 
----
-
-#### Most Used Languages
-- Python 51.93%  
-- C 0.57%  
-- Jupyter Notebook 45.26%  
-- PowerShell 0.16%  
-- CSS 1.11%  
-- C++ 0.13%  
-- HTML 0.76%  
-- JavaScript 0.09%  
-
----
-
-#### Afnan's GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnanbinabbas&custom_title=Afnan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

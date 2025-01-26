@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=afnanbinabbas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AfnanBinAbbas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=afnanbinabbas&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AfnanBinAbbas&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Scripting**
 
@@ -66,25 +66,25 @@
 
 <p align="center">
   <a href="https://github.com/AfnanBinAbbas">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanbinabbas&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfnanBinAbbas&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AfnanBinAbbas">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afnanbinabbas&theme=radical" alt="GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfnanBinAbbas&theme=radical" alt="GitHub Contribution"/>
   </a>
 </p>
 
 <a>
   <a href="https://github.com/AfnanBinAbbas">
-    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=afnanbinabbas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AfnanBinAbbas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
   <a href="https://github.com/AfnanBinAbbas">
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=afnanbinabbas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AfnanBinAbbas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
 </a>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnanbinabbas&custom_title=Afnan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AfnanBinAbbas&custom_title=Afnan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -72,19 +72,19 @@
 
 <p align="center">
   <a href="https://github.com/AfnanBinAbbas">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afnanbinabbas&theme=radical" alt="GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afnanbinabbas&theme=radical?v=2" alt="GitHub Contribution"/>
   </a>
 </p>
 
 <a>
   <a href="https://github.com/AfnanBinAbbas">
-    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=afnanbinabbas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=afnanbinabbas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866?v=2" height="192px" width="49.5%"/>
   </a>
   <a href="https://github.com/AfnanBinAbbas">
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=afnanbinabbas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=afnanbinabbas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866?v=2" height="192px" width="49.5%"/>
   </a>
 </a>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnanbinabbas&custom_title=Afnan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnanbinabbas&custom_title=Afnan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true?v=2)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

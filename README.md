@@ -42,16 +42,16 @@
 
 <p align="center">
   <a href="https://github.com/AfnanBinAbbas">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afnanbinabbas&theme=radical" alt="Afnan's GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfnanBinAbbas&theme=radical" alt="Afnan's GitHub Contribution"/>
   </a>
 </p>
 
-<p align="center" style="display: flex; justify-content: space-between;">
+<p align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/AfnanBinAbbas">
-    <img alt="Afnan's Github Stats" src="https://github-readme-stats-blush-eight.vercel.app/api?username=afnanbinabbas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="48%"/>
-  </a>
-  <a href="https://github.com/AfnanBinAbbas">
-    <img alt="Afnan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=afnanbinabbas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="48%"/>
+    <img alt="Afnan's Github Stats" src="https://github-readme-stats-blush-eight.vercel.app/api?username=afnanbinabbas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+<!--   </a> -->
+<!--   <a href="https://github.com/AfnanBinAbbas"> -->
+    <img alt="Afnan's Top Languages" src="https://github-readme-stats-blush-eight.vercel.app/api/top-langs/?username=afnanbinabbas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
   </a>
 </p>
  

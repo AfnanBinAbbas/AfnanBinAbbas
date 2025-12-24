@@ -19,7 +19,7 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=afnanbinabbas&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh -->
 - 🔭 I’m currently working on **Scripting**
 
 - 🌱 I’m currently learning **Web/App Exploitation**

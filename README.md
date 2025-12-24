@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Web/App Exploitation**
 
-- 💬 Ask me about **C++, Wirshark, Nessus, Metasploit, Nmap**
+- 💬 Ask me about **Rust, C++, Wirshark, Nessus, Metasploit, Nmap, Burpsuite**
 
 - 📫 How to reach me **afnanbabbas@gmail.com**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

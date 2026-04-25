@@ -30,13 +30,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; gap: 12px; align-items: center;">
+<p align="left">
   <a href="https://linkedin.com/in/afnanbinabbas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
+  <!-- &nbsp;&nbsp;&nbsp; -->
   <a href="https://medium.com/@afnanbinabbas" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="28" />
   </a>
+  <!-- &nbsp;&nbsp;&nbsp; -->
+ <a href="https://pentesterlab.com/profile/YOUR_USERNAME" target="_blank">
+  <img src="https://assets.pentesterlab.com/logos/ptlab_logo_text_alt_dark.png" alt="PentesterLab" height="28" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

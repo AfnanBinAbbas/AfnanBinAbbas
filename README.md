@@ -22,9 +22,9 @@
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh -->
 - 🔭 I’m currently working on **Scripting**
 
-- 🌱 I’m currently learning **Web/App Exploitation**
+- 🌱 I’m currently learning **AI Exploitation**
 
-- 💬 Ask me about **Rust, C++, Wirshark, Nessus, Metasploit, Nmap, Burpsuite**
+- 💬 Ask me about **Offensive, Defensive Security and Purple Teaming**
 
 - 📫 How to reach me **afnanbabbas@gmail.com**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -55,7 +55,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-woad-omega.vercel.app?user=AfnanBinAbbas&theme=radical&background=0D1117" alt="GitHub Streak" /></a></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AfnanBinAbbas&theme=radical&background=0D1117" alt="GitHub Streak" /></a></p>
 
 <p align="center">
   <a href="https://github.com/AfnanBinAbbas">
@@ -65,13 +65,12 @@
 
 <p align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/AfnanBinAbbas">
-    <img alt="Afnan's Github Stats" src="https://github-readme-stats-blush-eight.vercel.app/api?username=afnanbinabbas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
-  </a>
-  <a href="https://github.com/AfnanBinAbbas">
-    <img alt="Afnan's Top Languages" src="https://github-readme-stats-blush-eight.vercel.app/api/top-langs/?username=afnanbinabbas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+  <img alt="Afnan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AfnanBinAbbas&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />  </a>
+   <a href="https://github.com/AfnanBinAbbas">
+    <img alt="Afnan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanBinAbbas&langs_count=8&layout=compact&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true" height="192px" width="49%"/>
   </a>
 </p> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Afnan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnanbinabbas&custom_title=Afnan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Afnan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AfnanBinAbbas&theme=radical&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

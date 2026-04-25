@@ -28,11 +28,16 @@
 
 - 📫 How to reach me **afnanbabbas@gmail.com**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/afnanbinabbas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/afnanbinabbas/" height="30" width="40" /></a>
-</p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left" style="display: flex; gap: 12px; align-items: center;">
+  <a href="https://linkedin.com/in/afnanbinabbas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
+  </a>
+  <a href="https://medium.com/@afnanbinabbas" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="28" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 

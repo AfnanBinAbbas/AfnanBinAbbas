@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="28" />
   </a>
   <!-- &nbsp;&nbsp;&nbsp; -->
- <a href="https://pentesterlab.com/profile/YOUR_USERNAME" target="_blank">
+ <a href="https://pentesterlab.com/profile/Crackexe" target="_blank">
   <img src="https://assets.pentesterlab.com/logos/ptlab_logo_text_alt_dark.png" alt="PentesterLab" height="28" />
 </a>
 </p>

@@ -30,10 +30,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/media/823d941d38b2784563d53dc45859fccd.gif">
 
-<!-- Wakatime badge (from your second image) -->
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=afnanbinabbas&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-xi.vercel.app/?username=afnanbinabbas&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Scripting**
 - 🌱 I’m currently learning **AI Exploitation**
@@ -91,16 +89,15 @@
 
 <div align="center">
   <a href="https://github.com/AfnanBinAbbas">
-    <img alt="Afnan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AfnanBinAbbas&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img alt="Afnan's Github Stats" src="https://github-readme-stats-five-snowy.vercel.app/api?username=AfnanBinAbbas&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
   <a href="https://github.com/AfnanBinAbbas">
-    <img alt="Afnan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanBinAbbas&langs_count=8&layout=compact&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true" height="192px" />
+    <img alt="Afnan's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AfnanBinAbbas&theme=radical" height="192px" />
   </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Afnan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AfnanBinAbbas&theme=radical&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

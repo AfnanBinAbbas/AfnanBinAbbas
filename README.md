@@ -106,39 +106,9 @@
 
 ---
 
-## 🤖 Agents & Harnesses
+## 🔬 Research
 
-The core system: a deterministic phase pipeline (scripts) driven by specialized AI agents
-(definitions) under a shared doctrine (harness).
-
-### Agent layer
-| Repo | Role |
-|---|---|
-| [red-agents](https://github.com/AfnanBinAbbas/red-agents) | 7 opencode agent definitions + `/redteam` command |
-| [red-ops-doctrine](https://github.com/AfnanBinAbbas/red-ops-doctrine) | PLAYBOOK / OPSEC / VULN_INDEX — phase contract & scan-once rule |
-| [opencode-harness](https://github.com/AfnanBinAbbas/opencode-harness) | scrubbed opencode config example (providers, MCP, wiring) |
-
-### Phase scripts (deterministic pipeline)
-| # | Repo | Phase |
-|---|---|---|
-| 1 | [red-conductor](https://github.com/AfnanBinAbbas/red-conductor) | orchestrator — checkpoint state machine |
-| 2 | [red-recon](https://github.com/AfnanBinAbbas/red-recon) | recon: DNS/WHOIS/fingerprint |
-| 3 | [red-survey](https://github.com/AfnanBinAbbas/red-survey) | enumeration: nmap/nuclei/endpoints |
-| 4 | [red-exploit-web](https://github.com/AfnanBinAbbas/red-exploit-web) | web batteries: LFI, actuator, IDOR, exposures |
-| 5 | [red-exploit-infra](https://github.com/AfnanBinAbbas/red-exploit-infra) | infra: panel CVEs, creds, drupal, mail oracles |
-| 6 | [red-privesc](https://github.com/AfnanBinAbbas/red-privesc) | post-foothold escalation enum |
-| 7 | [red-exfil](https://github.com/AfnanBinAbbas/red-exfil) | objectives: PII walk, logs, DB dump chain |
-| 8 | [red-validate](https://github.com/AfnanBinAbbas/red-validate) | adversarial re-check of every finding |
-| 9 | [red-report](https://github.com/AfnanBinAbbas/red-report) | findings.json schema + report skeleton |
-
-**Philosophy:** scripts do the repeatable mechanical work (scan once, checkpoint, aggregate);
-AI does judgment at phase boundaries (interpret, chain, prove impact).
-
-### Research
 | Repo | Topic |
 |---|---|
-| [airgap-covert-channels](https://github.com/AfnanBinAbbas/airgap-covert-channels) | RF/EM/acoustic/TEMPEST covert-channel lab suite |
-
----
-
-<p align="center"><i>Authorized testing only — CTF/lab boxes and scoped engagements.</i></p>
+| [airgap-covert-channels](https://github.com/AfnanBinAbbas/airgap-covert-channels) | RF / EM / acoustic / TEMPEST covert-channel lab suite |
+| [PrivaDB](https://github.com/AfnanBinAbbas/PrivaDB) | privacy-preserving database research |
